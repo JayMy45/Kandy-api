@@ -1,0 +1,114 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        },
+        {
+            "id": 2,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        },
+        {
+            "id": 3,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        },
+        {
+            "id": 4,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        },
+        {
+            "id": 5,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        },
+        {
+            "id": 7,
+            "fullname": ,
+            "email": ,
+            "isStaff":
+        }
+    ],
+    "customers": [
+        {
+            "id": ,
+            "email": ,
+            "loyaltyId": ,
+            "userId":
+        }
+    ],
+    "employee": [
+        {
+            "id": ,
+            "email": ,
+            "startDate": ,
+            "rate": ,
+            "userId": ,
+            "locationId":
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": ,
+            "sqFt":
+        },
+        {
+            "id": 2,
+            "address": ,
+            "sqFt":
+        },
+        {
+            "id": 3,
+            "address": ,
+            "sqFt":
+        },
+        {
+            "id": 4,
+            "address": ,
+            "sqFt":
+        },
+        {
+            "id": 5,
+            "address": ,
+            "sqFt":
+        }
+    ],
+    "products": [
+        {
+            "id": ,
+            "name": ,
+            "quantity": ,
+            "price": ,
+            "productTypeId":
+        }
+    ],
+    "productTypes": [
+        {
+            "id": ,
+            "category":
+        }
+    ],
+    "purchases": [
+        {
+            "id": ,
+            "customerId": ,
+            "productId":
+        }
+    ],
+    "productLocation": [
+        {
+            "id": ,
+            "locationId": ,
+            "productId":
+        }
+    ]
+}
