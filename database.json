@@ -89,12 +89,12 @@
     ],
     "employee": [
         {
-            "id": ,
-            "email": ,
-            "startDate": ,
-            "rate": ,
-            "userId": ,
-            "locationId":
+            "id": 9,
+            "email": "dustinrodriguez88@gmail.com",
+            "startDate": "July 4, 2020",
+            "rate": 19.50,
+            "userId": 252729,
+            "locationId": 1
         }
     ],
     "locations": [
@@ -126,31 +126,31 @@
     ],
     "products": [
         {
-            "id": ,
-            "name": ,
-            "quantity": ,
-            "price": ,
-            "productTypeId":
+            "id": 1,
+            "name": "Kandied Korn",
+            "quantity": 500,
+            "price": 2,
+            "productTypeId": 1
         }
     ],
     "productTypes": [
         {
-            "id": ,
-            "category":
+            "id": 1,
+            "category": "Hard Candy"
         }
     ],
     "purchases": [
         {
-            "id": ,
-            "customerId": ,
-            "productId":
+            "id": 1,
+            "customerId": 3,
+            "productId": 1
         }
     ],
     "productLocation": [
         {
-            "id": ,
-            "locationId": ,
-            "productId":
+            "id": 1,
+            "locationId": 2,
+            "productId": 1
         }
     ]
 }
