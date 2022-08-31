@@ -136,6 +136,90 @@
             "quantity": 500,
             "price": 2,
             "productTypeId": 1
+        },
+        {
+            "id": 2,
+            "name": "Kandied Apples",
+            "quantity": 50,
+            "price": 5,
+            "productTypeId": 1
+        },
+        {
+            "id": 3,
+            "name": "Now Or Later Kandy",
+            "quantity": 1000,
+            "price": 3,
+            "productTypeId": 1
+        },
+        {
+            "id": 4,
+            "name": "Kandied Almonds",
+            "quantity": 759,
+            "price": 3.50,
+            "productTypeId": 1
+        },
+        {
+            "id": 5,
+            "name": "Kandied Pop",
+            "quantity": 100,
+            "price": 2.50,
+            "productTypeId": 4
+        },
+        {
+            "id": 6,
+            "name": "Clearly Kandied",
+            "quantity": 100,
+            "price": 2.50,
+            "productTypeId": 4
+        },
+        {
+            "id": 7,
+            "name": "Orange",
+            "quantity": 75,
+            "price": 2.50,
+            "productTypeId": 4
+        },
+        {
+            "id": 8,
+            "name": "Peanut Butter",
+            "quantity": 25,
+            "price": 2.50,
+            "productTypeId": 4
+        },
+        {
+            "id": 9,
+            "name": "Everlasting Kandy",
+            "quantity": 980,
+            "price": 1,
+            "productTypeId": 2
+        },
+        {
+            "id": 10,
+            "name": "Kotton Kandy",
+            "quantity": 877,
+            "price": 1,
+            "productTypeId": 2
+        },
+        {
+            "id": 11,
+            "name": "Kandied CUPs",
+            "quantity": 300,
+            "price": 5,
+            "productTypeId": 3
+        },
+        {
+            "id": 12,
+            "name": "Dark Chocolate Dipped Pickle",
+            "quantity": 200,
+            "price": 5,
+            "productTypeId": 3
+        },
+        {
+            "id": 13,
+            "name": "Mystery Kandy",
+            "quantity": 475,
+            "price": 5,
+            "productTypeId": 3
         }
     ],
     "productTypes": [
