@@ -100,26 +100,31 @@
     "locations": [
         {
             "id": 1,
+            "name": "Kandied Korn Nashville West",
             "address": "50520 Colleen Common Nashville, TN 37077 ",
             "sqFt": 4000
         },
         {
             "id": 2,
+            "name": "Kandied Korn Downtown Nashville",
             "address": "205 Demonbreun St., Nashville TN 37201",
             "sqFt": 3500
         },
         {
             "id": 3,
+            "name": "Kandied Korn Huntsville Alabama",
             "address": "3007 Shanahan Junctions, West Idella AL 36051",
             "sqFt": 5000
         },
         {
             "id": 4,
+            "name": "Kandied Korn Rice-Village Houston",
             "address": "27954 Otilia Knoll Houston TX 01751 ",
             "sqFt": 2300
         },
         {
             "id": 5,
+            "name": "Kandied Korn Charleston South Carolina",
             "address": "320 Betline Hwy, Columbia SC 29244",
             "sqFt": 2001
         }
