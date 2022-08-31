@@ -142,6 +142,18 @@
         {
             "id": 1,
             "category": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "category": "Gum"
+        },
+        {
+            "id": 3,
+            "category": "Chocolate"
+        },
+        {
+            "id": 4,
+            "category": "Sodas"
         }
     ],
     "purchases": [
