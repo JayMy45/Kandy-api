@@ -2,47 +2,89 @@
     "users": [
         {
             "id": 1,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Dustin Rodriguez",
+            "email": "dustinrodriguez88@gmail.com",
+            "isStaff": true
         },
         {
             "id": 2,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Gwen Waters",
+            "email": "stillwater4gwen@gmail.com",
+            "isStaff": true
         },
         {
             "id": 3,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Tunde Akinyeke",
+            "email": "tAkinyeke@mmc.edu",
+            "isStaff": false
         },
         {
             "id": 4,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Kurt Watson",
+            "email": "kwatson@mmc.edu",
+            "isStaff": false
         },
         {
             "id": 5,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Dr. Marcia Schamberger",
+            "email": "mschamberger@havard.edu",
+            "isStaff": false
         },
         {
             "id": 7,
-            "fullname": ,
-            "email": ,
-            "isStaff":
+            "fullname": "Ebony Townsend",
+            "email": "towntoEarth@yahoo.com",
+            "isStaff": true
         }
     ],
     "customers": [
         {
-            "id": ,
-            "email": ,
-            "loyaltyId": ,
-            "userId":
+            "id": 1,
+            "email": "tAkinyeke@mmc.edu",
+            "loyaltyId": 947490,
+            "userId": 20
+        },
+        {
+            "id": 2,
+            "email": "mschamberger@havard.edu",
+            "loyaltyId": 923048,
+            "userId": 21
+        },
+        {
+            "id": 3,
+            "email": "stillwater4gwen@gmail.com",
+            "loyaltyId": 8942301,
+            "userId": 22
+        },
+        {
+            "id": 4,
+            "email": "alldawayu9@gmail.com",
+            "loyaltyId": 9023481,
+            "userId": 23
+        },
+        {
+            "id": 5,
+            "email": "dr_nathanwilliams04@gmail.com",
+            "loyaltyId": 1023967,
+            "userId": 24
+        },
+        {
+            "id": 6,
+            "email": "mathewwalker2200@essen.com",
+            "loyaltyId": 6194382,
+            "userId": 25
+        },
+        {
+            "id": 7,
+            "email": "kwatson@mmc.edu",
+            "loyaltyId": 7834999,
+            "userId": 26
+        },
+        {
+            "id": 8,
+            "email": "__youknow@deltaeight.com",
+            "loyaltyId": 8762349,
+            "userId": 27
         }
     ],
     "employee": [
@@ -58,28 +100,28 @@
     "locations": [
         {
             "id": 1,
-            "address": ,
-            "sqFt":
+            "address": "50520 Colleen Common Nashville, TN 37077 ",
+            "sqFt": 4000
         },
         {
             "id": 2,
-            "address": ,
-            "sqFt":
+            "address": "205 Demonbreun St., Nashville TN 37201",
+            "sqFt": 3500
         },
         {
             "id": 3,
-            "address": ,
-            "sqFt":
+            "address": "3007 Shanahan Junctions, West Idella AL 36051",
+            "sqFt": 5000
         },
         {
             "id": 4,
-            "address": ,
-            "sqFt":
+            "address": "27954 Otilia Knoll Houston TX 01751 ",
+            "sqFt": 2300
         },
         {
             "id": 5,
-            "address": ,
-            "sqFt":
+            "address": "320 Betline Hwy, Columbia SC 29244",
+            "sqFt": 2001
         }
     ],
     "products": [
