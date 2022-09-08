@@ -1,257 +1,307 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "fullname": "Dustin Rodriguez",
-            "email": "dustinrodriguez88@gmail.com",
-            "isStaff": true
-        },
-        {
-            "id": 2,
-            "fullname": "Gwen Waters",
-            "email": "stillwater4gwen@gmail.com",
-            "isStaff": true
-        },
-        {
-            "id": 3,
-            "fullname": "Tunde Akinyeke",
-            "email": "tAkinyeke@mmc.edu",
-            "isStaff": false
-        },
-        {
-            "id": 4,
-            "fullname": "Kurt Watson",
-            "email": "kwatson@mmc.edu",
-            "isStaff": false
-        },
-        {
-            "id": 5,
-            "fullname": "Dr. Marcia Schamberger",
-            "email": "mschamberger@havard.edu",
-            "isStaff": false
-        },
-        {
-            "id": 7,
-            "fullname": "Ebony Townsend",
-            "email": "towntoEarth@yahoo.com",
-            "isStaff": true
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "email": "tAkinyeke@mmc.edu",
-            "loyaltyId": 947490,
-            "userId": 20
-        },
-        {
-            "id": 2,
-            "email": "mschamberger@havard.edu",
-            "loyaltyId": 923048,
-            "userId": 21
-        },
-        {
-            "id": 3,
-            "email": "stillwater4gwen@gmail.com",
-            "loyaltyId": 8942301,
-            "userId": 22
-        },
-        {
-            "id": 4,
-            "email": "alldawayu9@gmail.com",
-            "loyaltyId": 9023481,
-            "userId": 23
-        },
-        {
-            "id": 5,
-            "email": "dr_nathanwilliams04@gmail.com",
-            "loyaltyId": 1023967,
-            "userId": 24
-        },
-        {
-            "id": 6,
-            "email": "mathewwalker2200@essen.com",
-            "loyaltyId": 6194382,
-            "userId": 25
-        },
-        {
-            "id": 7,
-            "email": "kwatson@mmc.edu",
-            "loyaltyId": 7834999,
-            "userId": 26
-        },
-        {
-            "id": 8,
-            "email": "__youknow@deltaeight.com",
-            "loyaltyId": 8762349,
-            "userId": 27
-        }
-    ],
-    "employee": [
-        {
-            "id": 9,
-            "email": "dustinrodriguez88@gmail.com",
-            "startDate": "July 4, 2020",
-            "rate": 19.50,
-            "userId": 252729,
-            "locationId": 1
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Kandied Korn Nashville West",
-            "address": "50520 Colleen Common Nashville, TN 37077 ",
-            "sqFt": 4000
-        },
-        {
-            "id": 2,
-            "name": "Kandied Korn Downtown Nashville",
-            "address": "205 Demonbreun St., Nashville TN 37201",
-            "sqFt": 3500
-        },
-        {
-            "id": 3,
-            "name": "Kandied Korn Huntsville Alabama",
-            "address": "3007 Shanahan Junctions, West Idella AL 36051",
-            "sqFt": 5000
-        },
-        {
-            "id": 4,
-            "name": "Kandied Korn Rice-Village Houston",
-            "address": "27954 Otilia Knoll Houston TX 01751 ",
-            "sqFt": 2300
-        },
-        {
-            "id": 5,
-            "name": "Kandied Korn Charleston South Carolina",
-            "address": "320 Betline Hwy, Columbia SC 29244",
-            "sqFt": 2001
-        }
-    ],
-    "products": [
-        {
-            "id": 1,
-            "name": "Kandied Korn",
-            "quantity": 500,
-            "price": 2,
-            "productTypeId": 1
-        },
-        {
-            "id": 2,
-            "name": "Kandied Apples",
-            "quantity": 50,
-            "price": 5,
-            "productTypeId": 1
-        },
-        {
-            "id": 3,
-            "name": "Now Or Later Kandy",
-            "quantity": 1000,
-            "price": 3,
-            "productTypeId": 1
-        },
-        {
-            "id": 4,
-            "name": "Kandied Almonds",
-            "quantity": 759,
-            "price": 3.50,
-            "productTypeId": 1
-        },
-        {
-            "id": 5,
-            "name": "Kandied Pop",
-            "quantity": 100,
-            "price": 2.50,
-            "productTypeId": 4
-        },
-        {
-            "id": 6,
-            "name": "Clearly Kandied",
-            "quantity": 100,
-            "price": 2.50,
-            "productTypeId": 4
-        },
-        {
-            "id": 7,
-            "name": "Orange",
-            "quantity": 75,
-            "price": 2.50,
-            "productTypeId": 4
-        },
-        {
-            "id": 8,
-            "name": "Peanut Butter",
-            "quantity": 25,
-            "price": 2.50,
-            "productTypeId": 4
-        },
-        {
-            "id": 9,
-            "name": "Everlasting Kandy",
-            "quantity": 980,
-            "price": 1,
-            "productTypeId": 2
-        },
-        {
-            "id": 10,
-            "name": "Kotton Kandy",
-            "quantity": 877,
-            "price": 1,
-            "productTypeId": 2
-        },
-        {
-            "id": 11,
-            "name": "Kandied CUPs",
-            "quantity": 300,
-            "price": 5,
-            "productTypeId": 3
-        },
-        {
-            "id": 12,
-            "name": "Dark Chocolate Dipped Pickle",
-            "quantity": 200,
-            "price": 5,
-            "productTypeId": 3
-        },
-        {
-            "id": 13,
-            "name": "Mystery Kandy",
-            "quantity": 475,
-            "price": 5,
-            "productTypeId": 3
-        }
-    ],
-    "productTypes": [
-        {
-            "id": 1,
-            "category": "Hard Candy"
-        },
-        {
-            "id": 2,
-            "category": "Gum"
-        },
-        {
-            "id": 3,
-            "category": "Chocolate"
-        },
-        {
-            "id": 4,
-            "category": "Sodas"
-        }
-    ],
-    "purchases": [
-        {
-            "id": 1,
-            "customerId": 3,
-            "productId": 1
-        }
-    ],
-    "productLocation": [
-        {
-            "id": 1,
-            "locationId": 2,
-            "productId": 1
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Dustin Rodriguez",
+      "email": "dustinrodriguez88@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "fullName": "Gwen Waters",
+      "email": "stillwater4gwen@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 3,
+      "fullName": "Tunde Akinyeke",
+      "email": "takinyeke@mmc.edu",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Kurt Watson",
+      "email": "kwatson@mmc.edu",
+      "isStaff": false
+    },
+    {
+      "id": 5,
+      "fullName": "Dr. Marcia Schamberger",
+      "email": "mschamberger@havard.edu",
+      "isStaff": false
+    },
+    {
+      "id": 7,
+      "fullName": "Ebony Townsend",
+      "email": "towntoEarth@yahoo.com",
+      "isStaff": true
+    },
+    {
+      "id": 8,
+      "fullName": "Kitwana Miers",
+      "email": "zerofudges@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 9,
+      "fullName": "Dontavius Jordan",
+      "email": "lifeLive100@thehappening.com",
+      "isStaff": true
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "email": "tAkinyeke@mmc.edu",
+      "loyaltyId": 947490,
+      "userId": 20
+    },
+    {
+      "id": 2,
+      "email": "mschamberger@havard.edu",
+      "loyaltyId": 923048,
+      "userId": 21
+    },
+    {
+      "id": 3,
+      "email": "stillwater4gwen@gmail.com",
+      "loyaltyId": 8942301,
+      "userId": 22
+    },
+    {
+      "id": 4,
+      "email": "alldawayu9@gmail.com",
+      "loyaltyId": 9023481,
+      "userId": 23
+    },
+    {
+      "id": 5,
+      "email": "dr_nathanwilliams04@gmail.com",
+      "loyaltyId": 1023967,
+      "userId": 24
+    },
+    {
+      "id": 6,
+      "email": "mathewwalker2200@essen.com",
+      "loyaltyId": 6194382,
+      "userId": 25
+    },
+    {
+      "id": 7,
+      "email": "kwatson@mmc.edu",
+      "loyaltyId": 7834999,
+      "userId": 26
+    },
+    {
+      "id": 8,
+      "email": "__youknow@deltaeight.com",
+      "loyaltyId": 8762349,
+      "userId": 27
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "email": "dustinrodriguez88@gmail.com",
+      "startDate": "July 4, 2020",
+      "rate": 19.5,
+      "userId": 1,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "email": "stillwater4gwen@gmail.com",
+      "startDate": "July 4, 2020",
+      "rate": 19.5,
+      "userId": 2,
+      "locationId": 5
+    },
+    {
+      "id": 3,
+      "email": "towntoEarth@yahoo.com",
+      "startDate": "July 21, 2021",
+      "rate": 19.5,
+      "userId": 7,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "email": "zerofudges@gmail.com",
+      "startDate": "August 24, 2022",
+      "rate": 19.5,
+      "userId": 8,
+      "locationId": 3
+    },
+    {
+      "id": 5,
+      "email": "lifeLive100@thehappening.com",
+      "startDate": "September 6, 2022",
+      "rate": 21,
+      "userId": 9,
+      "locationId": 4
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Kandied Korn Nashville West",
+      "address": "50520 Colleen Common Nashville, TN 37077 ",
+      "sqFt": 4000
+    },
+    {
+      "id": 2,
+      "name": "Kandied Korn Downtown Nashville",
+      "address": "205 Demonbreun St., Nashville TN 37201",
+      "sqFt": 3500
+    },
+    {
+      "id": 3,
+      "name": "Kandied Korn Huntsville Alabama",
+      "address": "3007 Shanahan Junctions, West Idella AL 36051",
+      "sqFt": 5000
+    },
+    {
+      "id": 4,
+      "name": "Kandied Korn Rice-Village Houston",
+      "address": "27954 Otilia Knoll Houston TX 01751 ",
+      "sqFt": 2300
+    },
+    {
+      "id": 5,
+      "name": "Kandied Korn Charleston South Carolina",
+      "address": "320 Betline Hwy, Columbia SC 29244",
+      "sqFt": 2001
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Kandied Korn",
+      "quantity": 500,
+      "price": 2,
+      "productTypeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Kandied Apples",
+      "quantity": 50,
+      "price": 5,
+      "productTypeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Now Or Later Kandy",
+      "quantity": 1000,
+      "price": 3,
+      "productTypeId": 1
+    },
+    {
+      "id": 4,
+      "name": "Kandied Almonds",
+      "quantity": 759,
+      "price": 3.5,
+      "productTypeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Kandied Pop",
+      "quantity": 100,
+      "price": 2.5,
+      "productTypeId": 4
+    },
+    {
+      "id": 6,
+      "name": "Clearly Kandied",
+      "quantity": 100,
+      "price": 2.5,
+      "productTypeId": 4
+    },
+    {
+      "id": 7,
+      "name": "Orange",
+      "quantity": 75,
+      "price": 2.5,
+      "productTypeId": 4
+    },
+    {
+      "id": 8,
+      "name": "Peanut Butter",
+      "quantity": 25,
+      "price": 2.5,
+      "productTypeId": 4
+    },
+    {
+      "id": 9,
+      "name": "Everlasting Kandy",
+      "quantity": 980,
+      "price": 1,
+      "productTypeId": 2
+    },
+    {
+      "id": 10,
+      "name": "Kotton Kandy",
+      "quantity": 877,
+      "price": 1,
+      "productTypeId": 2
+    },
+    {
+      "id": 11,
+      "name": "Kandied CUPs",
+      "quantity": 300,
+      "price": 5,
+      "productTypeId": 3
+    },
+    {
+      "id": 12,
+      "name": "Dark Chocolate Dipped Pickle",
+      "quantity": 200,
+      "price": 5,
+      "productTypeId": 3
+    },
+    {
+      "id": 13,
+      "name": "Mystery Kandy",
+      "quantity": 475,
+      "price": 5,
+      "productTypeId": 3
+    },
+    {
+      "name": "asegr",
+      "price": 44,
+      "productTypeId": 1,
+      "id": 14
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "category": "Hard Candy"
+    },
+    {
+      "id": 2,
+      "category": "Gum"
+    },
+    {
+      "id": 3,
+      "category": "Chocolate"
+    },
+    {
+      "id": 4,
+      "category": "Sodas"
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "customerId": 3,
+      "productId": 1
+    }
+  ],
+  "productLocation": [
+    {
+      "id": 1,
+      "locationId": 2,
+      "productId": 1
+    }
+  ]
 }
