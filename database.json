@@ -47,56 +47,122 @@
       "fullName": "Dontavius Jordan",
       "email": "lifeLive100@thehappening.com",
       "isStaff": true
+    },
+    {
+      "fullName": "Houston November",
+      "email": "scopioseason79@gmail.com",
+      "isStaff": true,
+      "id": 10
+    },
+    {
+      "fullName": "Spi'Nash Henderson",
+      "email": "morelife4erbody@gmail.com",
+      "isStaff": true,
+      "id": 11
+    },
+    {
+      "fullName": "Justin Case",
+      "email": "case_closed99@nashvile.gov",
+      "isStaff": true,
+      "id": 12
+    },
+    {
+      "fullName": "DaQuan Robinson",
+      "email": "dquan-ondemand@dequan444.com",
+      "isStaff": true,
+      "id": 13
+    },
+    {
+      "fullName": "Love Leslie",
+      "email": "backup_down@gmail.com",
+      "isStaff": true,
+      "id": 14
+    },
+    {
+      "fullName": "Jeramy Gibson",
+      "email": "gdub1999@gmail.com",
+      "isStaff": true,
+      "id": 15
+    },
+    {
+      "fullName": "Tex Rodrick",
+      "email": "t.rodrick@yahoo.com",
+      "isStaff": true,
+      "id": 16
+    },
+    {
+      "fullName": "April Wiggins",
+      "email": "alldawayu9@gmail.com",
+      "isStaff": false,
+      "id": 17
+    },
+    {
+      "fullName": "Tex Rodrick",
+      "email": "t.rodrick@yahoo.com",
+      "isStaff": false,
+      "id": 18
+    },
+    {
+      "fullName": "Nathan William, PhD",
+      "email": "dr_nathanwilliams04@gmail.com",
+      "isStaff": false,
+      "id": 19
+    },
+    {
+      "fullName": "Mathew Walker",
+      "email": "mathewwalker2200@essen.com",
+      "isStaff": false,
+      "id": 20
+    },
+    {
+      "fullName": "Darth Brookes",
+      "email": "__youknow@deltaeight.com",
+      "isStaff": false,
+      "id": 21
     }
   ],
   "customers": [
     {
       "id": 1,
-      "email": "tAkinyeke@mmc.edu",
-      "loyaltyId": 947490,
-      "userId": 20
+      "email": "takinyeke@mmc.edu",
+      "loyaltyId": 262529,
+      "userId": 3
     },
     {
       "id": 2,
       "email": "mschamberger@havard.edu",
-      "loyaltyId": 923048,
-      "userId": 21
-    },
-    {
-      "id": 3,
-      "email": "stillwater4gwen@gmail.com",
-      "loyaltyId": 8942301,
-      "userId": 22
+      "loyaltyId": 262530,
+      "userId": 5
     },
     {
       "id": 4,
       "email": "alldawayu9@gmail.com",
-      "loyaltyId": 9023481,
-      "userId": 23
+      "loyaltyId": 262532,
+      "userId": 17
     },
     {
       "id": 5,
       "email": "dr_nathanwilliams04@gmail.com",
-      "loyaltyId": 1023967,
-      "userId": 24
+      "loyaltyId": 262533,
+      "userId": 19
     },
     {
       "id": 6,
       "email": "mathewwalker2200@essen.com",
-      "loyaltyId": 6194382,
-      "userId": 25
+      "loyaltyId": 262534,
+      "userId": 20
     },
     {
       "id": 7,
       "email": "kwatson@mmc.edu",
-      "loyaltyId": 7834999,
-      "userId": 26
+      "loyaltyId": 262535,
+      "userId": 4
     },
     {
       "id": 8,
       "email": "__youknow@deltaeight.com",
-      "loyaltyId": 8762349,
-      "userId": 27
+      "loyaltyId": 262535,
+      "userId": 21
     }
   ],
   "employees": [
@@ -139,6 +205,62 @@
       "rate": 21,
       "userId": 9,
       "locationId": 4
+    },
+    {
+      "id": 6,
+      "email": "scopioseason79@gmail.com",
+      "startDate": "September 7, 2022",
+      "rate": 65,
+      "userId": 10,
+      "locationId": 1
+    },
+    {
+      "id": 7,
+      "email": "morelife4erbody@gmail.com",
+      "rate": 16,
+      "userId": 11,
+      "locationId": 4,
+      "startDate": "October 1, 2022"
+    },
+    {
+      "email": "case_closed99@nashvile.gov",
+      "startDate": "2022-09-14",
+      "rate": 23,
+      "locationId": 5,
+      "userId": 12,
+      "id": 8
+    },
+    {
+      "email": "dquan-ondemand@dequan444.com",
+      "startDate": "2022-09-30",
+      "rate": 45,
+      "locationId": 5,
+      "userId": 13,
+      "id": 9
+    },
+    {
+      "email": "backup_down@gmail.com",
+      "startDate": "2022-09-30",
+      "rate": 34,
+      "locationId": 1,
+      "userId": 14,
+      "id": 10
+    },
+    {
+      "email": "gdub1999@gmail.com",
+      "startDate": "2022-09-07",
+      "rate": 19,
+      "locationId": 4,
+      "userId": 15,
+      "id": 11
+    },
+    {
+      "email": "t.rodrick@yahoo.com",
+      "startDate": "2022-09-19",
+      "rate": 19.78,
+      "locationId": 3,
+      "userId": 16,
+      "id": 12
     }
   ],
   "locations": [
